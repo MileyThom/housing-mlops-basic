@@ -45,3 +45,15 @@ python train.py
 python test_model.py
 
 This will train a linear regression model and use it to predict housing prices.
+
+        run the application
+
+python app.py
+
+        navigate to the web page outputted.
+```
+
+## Application instructions
+ - Input the square feet and number of rooms for the house which you wish to predict the cost of and select the "submit" button.
+ - The model's prediction will be outputted in the "Output" panel
+ - Use the "clear" button to clear the inputs and reinput new inputs for a new prediction.
