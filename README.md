@@ -34,7 +34,7 @@ To run this project, you will need Python installed on your local machine. Follo
 
         Install the required Python libraries:
 
-pip install pandas scikit-learn joblib
+pip install pandas scikit-learn joblib gradio
 
         Run the training script:
 
